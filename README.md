@@ -1,7 +1,7 @@
 ## Hey there!
-I work at the close intersction of ML that ships. Agents that act. Apps that work.
+I work at the close intersection of ML that ships. Agents that act. Apps that work.
 
-Bridging core Machine learning concepts , agentic AI orchestration and full-stack web dev - one real-time project at a time.
+Bridging core Machine learning concepts , agentic AI orchestration and full-stack web dev - one realtime project at a time.
 
 
 ## Connect with me
